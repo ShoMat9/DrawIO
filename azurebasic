@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dwar>
+    <resources>
+        <!-- Azure Resources -->
+        <resource type="azure_vnet" id="azure-vnet-1" name="Azure Virtual Network" location="East US">
+            <attribute name="address_space" value="10.0.0.0/16" />
+            <resource type="azure_subnet" id="azure-subnet-1" name="Subnet for VMs">
+                <attribute name="address_range" value="10.0.1.0/24" />
+            </resource>
+            <resource type="azure_subnet" id="azure-subnet-gateway" name="Subnet for Gateway">
+                <attribute name="address_range" value="10.0.2.0/24" />
+            </resource>
+        </resource>
+
+        <!-- Azure Virtual Machines -->
+        <resource type="azure_vm" id="azure-vm-1" name="Azure VM 1">
+            <attribute name="os" value="Windows Server 2019" />
+            <attribute name="vnet" value="azure-vnet-1" />
+            <attribute name="subnet" value="azure-subnet-1" />
+            <attribute name="private_ip" value="10.0.1.4" />
+        </resource>
+        <resource type="azure_vm" id="azure-vm-2" name="Azure VM 2">
+            <attribute name="os" value="Ubuntu 20.04" />
+            <attribute name="vnet" value="azure-vnet-1" />
+            <attribute name="subnet" value="azure-subnet-1" />
+            <attribute name="private_ip" value="10.0.1.5" />
+        </resource>
+
+        <!-- Azure ExpressRoute Gateway -->
+        <resource type="azure_expressroute_gateway" id="azure-er-gateway" name="ExpressRoute Gateway">
+            <attribute name="vnet" value="azure-vnet-1" />
+            <attribute name="subnet" value="azure-subnet-gateway" />
+        </resource>
+
+        <!-- On-Prem VMware Infrastructure -->
+        <resource type="vmware_esxi" id="on-prem-esxi-1" name="On-Prem ESXi Server 1">
+            <attribute name="private_ip" value="192.168.1.10" />
+        </resource>
+        <resource type="vmware_esxi" id="on-prem-esxi-2" name="On-Prem ESXi Server 2">
+            <attribute name="private_ip" value="192.168.1.11" />
+        </resource>
+
+        <!-- ExpressRoute Connectivity -->
+        <link type="expressroute" from="azure-er-gateway" to="on-prem-esxi-1">
+            <attribute name="connection_type" value="PrivatePeering" />
+            <attribute name="bandwidth" value="1 Gbps" />
+        </link>
+        <link type="expressroute" from="azure-er-gateway" to="on-prem-esxi-2">
+            <attribute name="connection_type" value="PrivatePeering" />
+            <attribute name="bandwidth" value="1 Gbps" />
+        </link>
+    </resources>
+</dwar>
