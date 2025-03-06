@@ -123,7 +123,7 @@
           <mxGeometry x="70" y="654.17" width="49" height="37.47" as="geometry" />
         </mxCell>
         <mxCell id="FTbg6Op-Rg1ywUvDo1Mx-32" value="RBA V2V High Level Deployment Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="231" y="280" width="269" height="40" as="geometry" />
+          <mxGeometry x="136" y="280" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
