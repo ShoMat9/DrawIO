@@ -1692,10 +1692,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lRafWQaxPjAH6hkkhHSk-5" value="RBA COREMOD MIGRATION PROCESS FLOW" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="122" y="42" width="1398" height="764" as="geometry" />
+          <mxGeometry x="122" y="42" width="1378" height="764" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-6" value="DISCOVERY &amp; DESIGN" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
-          <mxGeometry y="40" width="1398" height="330" as="geometry" />
+          <mxGeometry y="40" width="1378" height="330" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-7" value="TCS Migration Discovery Squad" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;align=center;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
           <mxGeometry x="40" width="428" height="330" as="geometry">
@@ -1726,8 +1726,8 @@
           <mxGeometry x="192" y="57" width="160" height="103" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-9" value="RBA CoreMod Team" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
-          <mxGeometry x="908" width="490" height="330" as="geometry">
-            <mxRectangle width="490" height="330" as="alternateBounds" />
+          <mxGeometry x="908" width="470" height="330" as="geometry">
+            <mxRectangle width="470" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-9" source="lRafWQaxPjAH6hkkhHSk-35" target="CoYBN5j2bgDKhjmLJBdT-5">
@@ -1764,7 +1764,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-10" value="MIGRATION" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
-          <mxGeometry y="370" width="1398" height="198" as="geometry" />
+          <mxGeometry y="370" width="1378" height="198" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-11" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-10">
           <mxGeometry x="40" width="428" height="198" as="geometry">
@@ -1777,12 +1777,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-13" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-10">
-          <mxGeometry x="908" width="490" height="198" as="geometry">
-            <mxRectangle width="490" height="198" as="alternateBounds" />
+          <mxGeometry x="908" width="470" height="198" as="geometry">
+            <mxRectangle width="470" height="198" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-14" value="POST MIGRATION" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
-          <mxGeometry y="568" width="1398" height="196" as="geometry" />
+          <mxGeometry y="568" width="1378" height="196" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-15" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-14">
           <mxGeometry x="40" width="428" height="196" as="geometry">
@@ -1795,8 +1795,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-17" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-14">
-          <mxGeometry x="908" width="490" height="196" as="geometry">
-            <mxRectangle width="490" height="196" as="alternateBounds" />
+          <mxGeometry x="908" width="470" height="196" as="geometry">
+            <mxRectangle width="470" height="196" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
