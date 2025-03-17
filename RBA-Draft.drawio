@@ -529,7 +529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of HO-Colo" id="j4mteR0fg4676qk73y9z">
-    <mxGraphModel dx="2019" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1649" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-0" />
         <mxCell id="YtT_6dK36JRPZIE0b7A7-1" parent="YtT_6dK36JRPZIE0b7A7-0" />
@@ -543,10 +543,10 @@
           <mxGeometry x="-12.45" y="430" width="942.45" height="320" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-143" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;gradientColor=#ffa500;strokeWidth=5;" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
-          <mxGeometry x="510" y="100" width="419.45" height="310" as="geometry" />
+          <mxGeometry x="510" y="90" width="419.45" height="320" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-144" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;gradientColor=#ffa500;strokeWidth=5;" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
-          <mxGeometry x="-12.45" y="100" width="422.45" height="310" as="geometry" />
+          <mxGeometry x="-12.45" y="90" width="422.45" height="320" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-2" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
           <mxGeometry x="523" y="530" width="198" height="70" as="geometry" />
@@ -859,7 +859,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-132" value="Head Office (HO), Martin Place, Sydney&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1C23FF;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
-          <mxGeometry x="38.779999999999994" y="100" width="310" height="30" as="geometry" />
+          <mxGeometry x="38.779999999999994" y="94" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-134" value="Mission Critical" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
           <mxGeometry x="580" y="710" width="310" height="30" as="geometry" />
@@ -868,7 +868,7 @@
           <mxGeometry x="570" y="370" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-137" value="Co-location, CDC datacentre, Eastern Creek, Sydney" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1C23FF;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
-          <mxGeometry x="568.78" y="100" width="310" height="30" as="geometry" />
+          <mxGeometry x="568.78" y="92" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-138" value="vCenter / ESXi Management" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;fontSize=5;" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
           <mxGeometry x="878.78" y="232" width="30" height="18" as="geometry" />
