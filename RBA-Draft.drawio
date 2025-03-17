@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="3">
   <diagram name="HO-Colo" id="eurI9OhCHn8TD2BpBafS">
     <mxGraphModel dx="1844" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1446,32 +1446,6 @@
         </mxCell>
         <mxCell id="qdhuQoZB074ZiFcuZgXN-142" value="HXC Uplink" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;fontSize=5;" vertex="1" parent="qdhuQoZB074ZiFcuZgXN-1">
           <mxGeometry x="843.33" y="544.75" width="30" height="4.5" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="_GLpwIDj0b5T-z9uStH0" name="Draft">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ZdAryg9-EVfO5D9wZQ8c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBf3ZKTrhS6lliVhfPB2-1" target="ZdAryg9-EVfO5D9wZQ8c-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdAryg9-EVfO5D9wZQ8c-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBf3ZKTrhS6lliVhfPB2-1" target="ZdAryg9-EVfO5D9wZQ8c-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RBf3ZKTrhS6lliVhfPB2-1" value="HO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdAryg9-EVfO5D9wZQ8c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdAryg9-EVfO5D9wZQ8c-1" target="ZdAryg9-EVfO5D9wZQ8c-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdAryg9-EVfO5D9wZQ8c-1" value="COLO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZdAryg9-EVfO5D9wZQ8c-2" value="BRS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
