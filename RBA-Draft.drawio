@@ -529,7 +529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of HO-Colo" id="j4mteR0fg4676qk73y9z">
-    <mxGraphModel dx="1649" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-0" />
         <mxCell id="YtT_6dK36JRPZIE0b7A7-1" parent="YtT_6dK36JRPZIE0b7A7-0" />
@@ -862,10 +862,10 @@
           <mxGeometry x="38.779999999999994" y="94" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-134" value="Mission Critical" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
-          <mxGeometry x="580" y="710" width="310" height="30" as="geometry" />
+          <mxGeometry x="703.33" y="710" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-135" value="Enterprise / Mission Critical" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00FF00;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
-          <mxGeometry x="570" y="370" width="310" height="30" as="geometry" />
+          <mxGeometry x="720" y="370" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-137" value="Co-location, CDC datacentre, Eastern Creek, Sydney" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1C23FF;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
           <mxGeometry x="568.78" y="92" width="310" height="30" as="geometry" />
@@ -1010,7 +1010,7 @@
         <mxCell id="QajDecXwb1v8W-rL2jjW-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Anchor Links&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
           <mxGeometry x="421" y="651.77" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VNuGicR9-SOlH8RIvsLz-9" value="DWDM HO-BRS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#FF8000;opacity=50;fontSize=9;rotation=90;" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
+        <mxCell id="VNuGicR9-SOlH8RIvsLz-9" value="DWDM HO-BRS Legacy" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#FF8000;opacity=50;fontSize=9;rotation=90;" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
           <mxGeometry x="118" y="402" width="241.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QajDecXwb1v8W-rL2jjW-31" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.l3_switch;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
@@ -1075,6 +1075,21 @@
             <mxPoint x="580" y="163.995" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-48" value="" style="shape=flexArrow;endArrow=none;startArrow=none;html=1;rounded=0;entryX=0.808;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;width=7;startWidth=15;endWidth=15;fillColor=#00FF00;gradientColor=#FF8000;gradientDirection=north;" edge="1" parent="YtT_6dK36JRPZIE0b7A7-1" target="YtT_6dK36JRPZIE0b7A7-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="680" y="290" as="sourcePoint" />
+            <mxPoint x="740" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-50" value="DWDM HO -BRS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+          <mxGeometry x="460" y="209.5" width="21" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-51" value="DWDM HO -Colo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-90;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+          <mxGeometry x="450" y="40.5" width="21" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-52" value="DWDM COLO-BRS-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+          <mxGeometry x="691" y="345" width="21" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
