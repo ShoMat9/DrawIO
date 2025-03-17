@@ -529,7 +529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of HO-Colo" id="j4mteR0fg4676qk73y9z">
-    <mxGraphModel dx="2019" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-0" />
         <mxCell id="YtT_6dK36JRPZIE0b7A7-1" parent="YtT_6dK36JRPZIE0b7A7-0" />
@@ -1090,6 +1090,28 @@
         </mxCell>
         <mxCell id="QajDecXwb1v8W-rL2jjW-52" value="DWDM COLO-BRS-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
           <mxGeometry x="691" y="345" width="21" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YtT_6dK36JRPZIE0b7A7-1" target="VNuGicR9-SOlH8RIvsLz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22" y="540" as="sourcePoint" />
+            <mxPoint x="222" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="540" />
+              <mxPoint x="192" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACkAAAAnCAIAAAAdCPbRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAASdEVYdFNvZnR3YXJlAEdyZWVuc2hvdF5VCAUAAAMoSURBVFhHY/gPA9eefrJtPaxZuVezgiikUbFbtq5bsWYOmjgxSDFndWzXRpDd33/93Xz+hXH9AQ2QibRF6mW75DOWiYb1RHesY/j3//+CQ/ctGvaplu6kOSreLpOyQDSsVyS0G2T333//7Oq2SKUupQMSj50JtBWCoHbb1m5GU0QjJBYzfdTuUbsx1NECUWS3avFM3yX5oWvT8SPPeSWKufPQ9AIRRXZbdLck7I4O35DiOrPCeUYlJnKbUxazLT5+V4x21WQ0vUBEkd3WvU2x2+O0KqcA2br58zxrp/jUTYYj67KZsulLjFu6ge7TrZmIrBGCKLU7YlOyWskMo8K5d0/E/78VjIx+XAsrm9KiWTE1fmcMDe12qZ72D9ViCFq9vpBmdvdB7XatnopmKwSt21hAE7tl0he7zS6jh926tRNcZ5W7wdHscq8FRcCEFrGRxnYr5MwLXJENTK5AU+J2xiLQjljvRYVAWZx2b6DYbqX8uUGrsoA51bi5G+hLteKZEAQsW+SyFgIV2JTN/HIlHM3ifzeDpy+toI7dIWvTpdOWyKQtiWnvLZ/SDEf5E9oMCuaWTG5dsLJ00aoSOOpfWG1dOpM6dgetzgSy4zp60fwHRJs250NUSqcvkU5fDEfA9GjS2klR2YJsd+XUZjSLgejykWSgFNCLLjMrgOUoHHnOK6a0TEW1uwnNYiCC2O0xrwToxdjt8cD6I2RNBgQFr84AOkKB7LqESLt9F+fHbI83aOyFa8SPqGx31OYk5cLZcI34Ecl2F01qRbMYiE7vTwVKAe2OBNpdMAeuET8iwe5gsN2aOQu2bsm9djQRjs4eSA1sBCVjGtodti5VJmMxmhQcyWQs8l+eSyu7gYUosCli3tlu1oGOzDvanaZVA7MT9e0GFpzeCwuBpTchFAd0omwmqJQlBhFlNxABfWPU3A0sz/EgoALlAmITORARazct0KCwWyysJ3vKtoGxO7xt3a0n7wbA7rC2DU/ffP7//z/Ibof6LbLpy+iApBNmhbVvfPf5B3iA5z/Dv3//F+y/1b/lMh3QtG2X7jz/ALEYCBDjTPQG//8DAN0sovShQHRcAAAAAElFTkSuQmCC;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+          <mxGeometry x="12" y="460" width="31.55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-55" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="YtT_6dK36JRPZIE0b7A7-1" target="QajDecXwb1v8W-rL2jjW-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="28" y="540" as="sourcePoint" />
+            <mxPoint x="75" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-56" value="vCenter / ESXi Management" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;fontSize=5;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+          <mxGeometry x="12" y="542" width="30" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
