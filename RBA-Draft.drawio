@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="4">
   <diagram name="HO-Colo" id="eurI9OhCHn8TD2BpBafS">
-    <mxGraphModel dx="2501" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1844" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xollCLhJqBOGhv4E6GTB-0" />
         <mxCell id="xollCLhJqBOGhv4E6GTB-1" parent="xollCLhJqBOGhv4E6GTB-0" />
@@ -546,12 +546,12 @@
           <mxGeometry x="523" y="530" width="198" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fontColor=default;fillColor=none;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
-          <mxGeometry y="440" width="920" height="300" as="geometry" />
+          <mxGeometry y="450" width="920" height="300" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-4" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon2;align=center;verticalAlign=middle;dx=15;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
           <mxGeometry x="200" y="530" width="198" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YtT_6dK36JRPZIE0b7A7-25" value="DWDM Optical Fiber" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#FFFFBA;opacity=50;fontSize=9;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+        <mxCell id="YtT_6dK36JRPZIE0b7A7-25" value="Anchor Links" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#FFFFBA;opacity=50;fontSize=9;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
           <mxGeometry x="390" y="554.5" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-32" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;F5 GTM/LTM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;strokeColor=#9673a6;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
@@ -923,6 +923,9 @@
             <mxPoint x="620.8800000000001" y="314.62" as="sourcePoint" />
             <mxPoint x="749" y="269" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VNuGicR9-SOlH8RIvsLz-9" value="DWDM Optical Fiber" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#FFFFBA;opacity=50;fontSize=9;rotation=90;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+          <mxGeometry x="240.25" y="398.75" width="283.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
