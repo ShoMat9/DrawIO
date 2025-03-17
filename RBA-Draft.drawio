@@ -1079,13 +1079,13 @@
             <mxPoint x="740" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QajDecXwb1v8W-rL2jjW-50" value="DWDM HO -BRS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+        <mxCell id="QajDecXwb1v8W-rL2jjW-50" value="DWDM HO -BRS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-180;fontSize=10;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
           <mxGeometry x="460" y="209.5" width="21" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="QajDecXwb1v8W-rL2jjW-51" value="DWDM HO -Colo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-90;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+        <mxCell id="QajDecXwb1v8W-rL2jjW-51" value="DWDM HO -Colo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-90;fontSize=10;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
           <mxGeometry x="450" y="40.5" width="21" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="QajDecXwb1v8W-rL2jjW-52" value="DWDM COLO-BRS-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-180;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+        <mxCell id="QajDecXwb1v8W-rL2jjW-52" value="DWDM COLO-BRS-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=-180;fontSize=10;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
           <mxGeometry x="691" y="345" width="21" height="165" as="geometry" />
         </mxCell>
         <mxCell id="QajDecXwb1v8W-rL2jjW-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YtT_6dK36JRPZIE0b7A7-1" target="VNuGicR9-SOlH8RIvsLz-1">
