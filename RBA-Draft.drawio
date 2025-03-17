@@ -529,7 +529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of HO-Colo" id="j4mteR0fg4676qk73y9z">
-    <mxGraphModel dx="2019" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-0" />
         <mxCell id="YtT_6dK36JRPZIE0b7A7-1" parent="YtT_6dK36JRPZIE0b7A7-0" />
@@ -1004,12 +1004,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QajDecXwb1v8W-rL2jjW-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;startFill=0;" edge="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+        <mxCell id="QajDecXwb1v8W-rL2jjW-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;startFill=0;entryX=0.63;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="YtT_6dK36JRPZIE0b7A7-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="353" y="597" as="sourcePoint" />
-            <mxPoint x="600" y="600" as="targetPoint" />
+            <mxPoint x="354" y="600" as="sourcePoint" />
+            <mxPoint x="580.5999999999999" y="603.1" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="640" />
+              <mxPoint x="481" y="643" />
             </Array>
           </mxGeometry>
         </mxCell>
