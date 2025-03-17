@@ -829,13 +829,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-132" value="Head Office (HO), Martin Place, Sydney&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1C23FF;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
-          <mxGeometry x="38.779999999999994" y="94" width="310" height="30" as="geometry" />
+          <mxGeometry x="38.779999999999994" y="91" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-135" value="&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;Enterprise&lt;/font&gt; &lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;/&lt;/font&gt; &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Mission Critical&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00FF00;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
           <mxGeometry x="720" y="370" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-137" value="Co-location, CDC datacentre, Eastern Creek, Sydney" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1C23FF;fontStyle=1" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
-          <mxGeometry x="568.78" y="92" width="310" height="30" as="geometry" />
+          <mxGeometry x="568.78" y="90" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YtT_6dK36JRPZIE0b7A7-138" value="vCenter / ESXi Management" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;fontSize=5;" parent="YtT_6dK36JRPZIE0b7A7-1" vertex="1">
           <mxGeometry x="878.78" y="232" width="30" height="18" as="geometry" />
