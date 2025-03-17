@@ -1692,14 +1692,14 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lRafWQaxPjAH6hkkhHSk-5" value="RBA COREMOD MIGRATION PROCESS FLOW" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="127" y="42" width="1718" height="714" as="geometry" />
+          <mxGeometry x="50" y="80" width="1718" height="800.0000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-6" value="DISCOVERY &amp; DESIGN" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
-          <mxGeometry y="40" width="1718" height="307" as="geometry" />
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-6" value="TCS DISCOVERY SQUAD" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
+          <mxGeometry y="40" width="1718" height="327" as="geometry" />
         </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-7" value="TCS Migration Discovery Squad" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;align=center;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
-          <mxGeometry x="40" width="348" height="307" as="geometry">
-            <mxRectangle width="348" height="307" as="alternateBounds" />
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-7" value="Discovery" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;align=center;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
+          <mxGeometry x="40" width="330" height="327" as="geometry">
+            <mxRectangle width="330" height="327" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-7" source="lRafWQaxPjAH6hkkhHSk-18" target="lRafWQaxPjAH6hkkhHSk-20">
@@ -1711,49 +1711,19 @@
         <mxCell id="lRafWQaxPjAH6hkkhHSk-20" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Identify Application/Server Inventory to be migrated&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Application- Server Mapping&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;App Owner Identification (Business &amp;amp; Technical)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-7">
           <mxGeometry x="140" y="57" width="200" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-8" value="TCS Migration Design Squad" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
-          <mxGeometry x="388" width="400" height="307" as="geometry">
-            <mxRectangle width="400" height="307" as="alternateBounds" />
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-8" value="Design" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
+          <mxGeometry x="370" width="440" height="327" as="geometry">
+            <mxRectangle width="440" height="327" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-8" source="lRafWQaxPjAH6hkkhHSk-22" target="lRafWQaxPjAH6hkkhHSk-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-22" value="Principle Inventory" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-8">
-          <mxGeometry x="20" y="129" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-28" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Conduct detailed application interviews&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prepare Migration solution Designs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prepare Integration and Migration Execution Plans&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-8">
-          <mxGeometry x="192" y="57" width="160" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-9" value="RBA CoreMod Team" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
-          <mxGeometry x="788" width="430" height="307" as="geometry">
-            <mxRectangle width="430" height="307" as="alternateBounds" />
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-9" value="Migration Execution" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
+          <mxGeometry x="810" width="408" height="327" as="geometry">
+            <mxRectangle width="408" height="327" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CoYBN5j2bgDKhjmLJBdT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-9" source="lRafWQaxPjAH6hkkhHSk-35" target="CoYBN5j2bgDKhjmLJBdT-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-35" value="App Migration Design" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-9">
-          <mxGeometry x="40" y="150" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CoYBN5j2bgDKhjmLJBdT-5" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve Application Migration Design (incl network, security)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve App Integration Plan&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve Migration Execution Plan&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-9">
-          <mxGeometry x="193" y="133.5" width="210" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="CoYBN5j2bgDKhjmLJBdT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-9" source="CoYBN5j2bgDKhjmLJBdT-9" target="CoYBN5j2bgDKhjmLJBdT-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CoYBN5j2bgDKhjmLJBdT-9" value="App Integration Plan" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-9">
-          <mxGeometry x="40" y="50" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CoYBN5j2bgDKhjmLJBdT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-9" source="CoYBN5j2bgDKhjmLJBdT-8" target="CoYBN5j2bgDKhjmLJBdT-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CoYBN5j2bgDKhjmLJBdT-8" value="&lt;font&gt;&amp;nbsp;Mig Execution Plan&lt;/font&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-9">
-          <mxGeometry x="40" y="240" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CoYBN5j2bgDKhjmLJBdT-59" value="TCS Migration Execution Squad" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
-          <mxGeometry x="1218" width="500" height="307" as="geometry">
-            <mxRectangle width="500" height="307" as="alternateBounds" />
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-59" value="Post Migration" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
+          <mxGeometry x="1218" width="500" height="327" as="geometry">
+            <mxRectangle width="500" height="327" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-63" value="Approved Migration Design Pack" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="CoYBN5j2bgDKhjmLJBdT-59">
@@ -1768,44 +1738,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-6" source="lRafWQaxPjAH6hkkhHSk-20" target="lRafWQaxPjAH6hkkhHSk-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="436" y="310" as="sourcePoint" />
-            <mxPoint x="486" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-6" source="lRafWQaxPjAH6hkkhHSk-28" target="lRafWQaxPjAH6hkkhHSk-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="768" y="109" />
-              <mxPoint x="768" y="185" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-10" value="MIGRATION" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
-          <mxGeometry y="347" width="1718" height="185" as="geometry" />
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-10" value="TCS MIGRATION DESIGN SQUAD" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
+          <mxGeometry y="367" width="1718" height="193" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-11" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-10">
-          <mxGeometry x="40" width="348" height="185" as="geometry">
-            <mxRectangle width="348" height="185" as="alternateBounds" />
+          <mxGeometry x="40" width="330" height="193" as="geometry">
+            <mxRectangle width="330" height="193" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-22" value="Principle Inventory" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-11">
+          <mxGeometry x="153" y="29" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-12" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-10">
-          <mxGeometry x="388" width="400" height="185" as="geometry">
-            <mxRectangle width="400" height="185" as="alternateBounds" />
+          <mxGeometry x="370" width="440" height="193" as="geometry">
+            <mxRectangle width="440" height="193" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-28" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Conduct detailed application interviews&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prepare Migration solution Designs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prepare Integration and Migration Execution Plans&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-12">
+          <mxGeometry x="32" y="71" width="160" height="103" as="geometry" />
+        </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-13" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-10">
-          <mxGeometry x="788" width="430" height="185" as="geometry">
-            <mxRectangle width="430" height="185" as="alternateBounds" />
+          <mxGeometry x="810" width="408" height="193" as="geometry">
+            <mxRectangle width="408" height="193" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-60" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-10">
-          <mxGeometry x="1218" width="500" height="185" as="geometry">
-            <mxRectangle width="500" height="185" as="alternateBounds" />
+          <mxGeometry x="1218" width="500" height="193" as="geometry">
+            <mxRectangle width="500" height="193" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CoYBN5j2bgDKhjmLJBdT-60" source="CoYBN5j2bgDKhjmLJBdT-62" target="CoYBN5j2bgDKhjmLJBdT-69">
@@ -1817,27 +1776,81 @@
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-69" value="Migration Successful" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CoYBN5j2bgDKhjmLJBdT-60">
           <mxGeometry x="35" y="38.5" width="110" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-14" value="POST MIGRATION" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
-          <mxGeometry y="532" width="1718" height="182" as="geometry" />
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-10" source="lRafWQaxPjAH6hkkhHSk-22" target="lRafWQaxPjAH6hkkhHSk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-14" value="RBA CoreMod Team" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
+          <mxGeometry y="560" width="1718" height="240" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-15" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-14">
-          <mxGeometry x="40" width="348" height="182" as="geometry">
-            <mxRectangle width="348" height="182" as="alternateBounds" />
+          <mxGeometry x="40" width="330" height="240" as="geometry">
+            <mxRectangle width="330" height="240" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-16" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-14">
-          <mxGeometry x="388" width="400" height="182" as="geometry">
-            <mxRectangle width="400" height="182" as="alternateBounds" />
+          <mxGeometry x="370" width="440" height="240" as="geometry">
+            <mxRectangle width="440" height="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-9" value="App Integration Plan" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-16">
+          <mxGeometry x="12" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-35" value="App Migration Design" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-16">
+          <mxGeometry x="152" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-16" source="CoYBN5j2bgDKhjmLJBdT-8" target="CoYBN5j2bgDKhjmLJBdT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-8" value="&lt;font&gt;&amp;nbsp;Mig Execution Plan&lt;/font&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-16">
+          <mxGeometry x="280" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-5" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve Application Migration Design (incl network, security)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve App Integration Plan&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve Migration Execution Plan&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-16">
+          <mxGeometry x="101" y="137" width="266" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-16" source="CoYBN5j2bgDKhjmLJBdT-9" target="CoYBN5j2bgDKhjmLJBdT-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="72" y="109" />
+              <mxPoint x="190" y="109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-16" source="lRafWQaxPjAH6hkkhHSk-35" target="CoYBN5j2bgDKhjmLJBdT-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="212" y="120" />
+              <mxPoint x="212" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-17" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-14">
-          <mxGeometry x="788" width="430" height="182" as="geometry">
-            <mxRectangle width="430" height="182" as="alternateBounds" />
+          <mxGeometry x="810" width="408" height="240" as="geometry">
+            <mxRectangle width="408" height="240" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-61" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-14">
-          <mxGeometry x="1218" width="500" height="182" as="geometry">
-            <mxRectangle width="500" height="182" as="alternateBounds" />
+          <mxGeometry x="1218" width="500" height="240" as="geometry">
+            <mxRectangle width="500" height="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-71" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="CoYBN5j2bgDKhjmLJBdT-61">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-5" source="CoYBN5j2bgDKhjmLJBdT-69" target="CoYBN5j2bgDKhjmLJBdT-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CoYBN5j2bgDKhjmLJBdT-73" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CoYBN5j2bgDKhjmLJBdT-72">
+          <mxGeometry x="-0.3734" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-5" source="lRafWQaxPjAH6hkkhHSk-20" target="lRafWQaxPjAH6hkkhHSk-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="350" as="sourcePoint" />
+            <mxPoint x="486" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.005;exitY=0.626;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CoYBN5j2bgDKhjmLJBdT-5">
