@@ -1154,6 +1154,12 @@
             <mxPoint x="61.18" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-72" value="HXC Uplink" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;fontSize=5;" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+          <mxGeometry x="49.339999999999996" y="546" width="30" height="4.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QajDecXwb1v8W-rL2jjW-73" value="RBA CoreMod High Level Migration Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="YtT_6dK36JRPZIE0b7A7-1">
+          <mxGeometry x="218" y="40.5" width="473" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
