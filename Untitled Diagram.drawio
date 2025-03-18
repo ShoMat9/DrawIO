@@ -740,6 +740,20 @@
         <mxCell id="U2tGxKEN1rjBe1oNK3uf-40" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="U2tGxKEN1rjBe1oNK3uf-27">
           <mxGeometry x="32.8969860548808" y="32.42553191489363" width="22.703553756185332" height="32.42553191489363" as="geometry" />
         </mxCell>
+        <mxCell id="P6Cqp-kGieav3LKnaaAm-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="U2tGxKEN1rjBe1oNK3uf-27" target="U2tGxKEN1rjBe1oNK3uf-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.17833108412037" y="292.0607902735562" as="sourcePoint" />
+            <mxPoint x="234.17833108412037" y="242.06079027355622" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="235" y="202" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6Cqp-kGieav3LKnaaAm-2" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P6Cqp-kGieav3LKnaaAm-1">
+          <mxGeometry x="-0.8312" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U2tGxKEN1rjBe1oNK3uf-41" value="Post Migration Phase" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="884.7008547008545" y="157.93920972644378" width="255.29914529914524" height="440.06079027355645" as="geometry" />
         </mxCell>
