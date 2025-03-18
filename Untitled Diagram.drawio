@@ -811,6 +811,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="P6Cqp-kGieav3LKnaaAm-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2tGxKEN1rjBe1oNK3uf-24" target="U2tGxKEN1rjBe1oNK3uf-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560.36" y="360" as="sourcePoint" />
+            <mxPoint x="610.36" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6Cqp-kGieav3LKnaaAm-4" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P6Cqp-kGieav3LKnaaAm-3">
+          <mxGeometry x="-0.7843" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
