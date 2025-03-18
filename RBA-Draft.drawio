@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="5">
   <diagram name="Post Migration Architeture" id="eurI9OhCHn8TD2BpBafS">
     <mxGraphModel dx="1192" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1764,7 +1764,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lRafWQaxPjAH6hkkhHSk-5" value="RBA COREMOD MIGRATION PROCESS FLOW" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-40" width="1910" height="1520" as="geometry" />
+          <mxGeometry x="-10" width="1910" height="1520" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-6" value="TCS DISCOVERY SQUAD" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=1;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-5">
           <mxGeometry y="40" width="1910" height="345" as="geometry" />
@@ -1782,6 +1782,13 @@
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-20" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Identify Application/Server Inventory to be migrated&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Application- Server Mapping&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;App Owner Identification (Business &amp;amp; Technical)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-7">
           <mxGeometry x="30" y="173" width="180" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.588;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.611;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-7" target="lRafWQaxPjAH6hkkhHSk-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="121.73000000000104" y="315.9959999999999" as="sourcePoint" />
+            <mxPoint x="100.0041134608515" y="409.71" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-8" value="Design" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;strokeColor=inherit;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-6">
           <mxGeometry x="408" width="479" height="345" as="geometry">
@@ -1806,9 +1813,6 @@
             <mxRectangle width="368" height="304" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-22" value="Principle Inventory" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-11">
-          <mxGeometry x="43" y="71" width="120" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-11" target="lRafWQaxPjAH6hkkhHSk-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="105.25" as="sourcePoint" />
@@ -1823,6 +1827,9 @@
               <mxPoint x="490" y="885" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lRafWQaxPjAH6hkkhHSk-22" value="Principle Inventory" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-11">
+          <mxGeometry x="46" y="65" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-12" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=1;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-10">
           <mxGeometry x="408" width="479" height="304" as="geometry">
@@ -1963,7 +1970,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-9" value="App Integration Plan" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-16">
-          <mxGeometry x="12" y="41" width="120" height="70" as="geometry" />
+          <mxGeometry x="27" y="41" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lRafWQaxPjAH6hkkhHSk-35" value="App Migration Design" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-16">
           <mxGeometry x="147" y="41" width="120" height="70" as="geometry" />
@@ -1972,7 +1979,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-8" value="&lt;font&gt;&amp;nbsp;Mig Execution Plan&lt;/font&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-16">
-          <mxGeometry x="280" y="41" width="120" height="70" as="geometry" />
+          <mxGeometry x="267" y="41" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-5" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve Application Migration Design (incl network, security)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve App Integration Plan&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Review &amp;amp; Approve Migration Execution Plan&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="lRafWQaxPjAH6hkkhHSk-16">
           <mxGeometry x="101" y="171" width="266" height="83" as="geometry" />
@@ -2019,13 +2026,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lRafWQaxPjAH6hkkhHSk-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.572;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-5" source="lRafWQaxPjAH6hkkhHSk-20" target="lRafWQaxPjAH6hkkhHSk-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="243" as="sourcePoint" />
-            <mxPoint x="486" y="300" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CoYBN5j2bgDKhjmLJBdT-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lRafWQaxPjAH6hkkhHSk-5" source="CoYBN5j2bgDKhjmLJBdT-69" target="CoYBN5j2bgDKhjmLJBdT-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2058,6 +2058,14 @@
             <mxPoint x="1030" y="879" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3UDcdtf78t_r20Xm2unY" name="Page-5">
+    <mxGraphModel dx="1192" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
